@@ -1,0 +1,53 @@
+using System;
+
+namespace ConsoleInput
+{
+    public class TheMiddle
+    {
+        public static void Main(string[] args)
+        {
+            string aString =  Console.ReadLine();
+            string bString =  Console.ReadLine();
+            string cString =  Console.ReadLine();
+
+            int a = int.Parse(aString);
+            int b = int.Parse(bString);
+            int c = int.Parse(cString);
+
+            if(a < b)
+            {
+                if(c < a)
+                {
+                Console.WriteLine(a);
+                }
+                else if(c > b)
+                {
+                Console.WriteLine(b);
+                }
+                else
+                {
+                    Console.WriteLine(c);
+                }
+            
+            }
+            else 
+            {
+                if(c > a)
+                {
+                    Console.WriteLine(b);
+                }
+                else if(c < b)
+                {
+                    Console.WriteLine(c);
+                }
+                else
+                {
+                    Console.WriteLine(a);
+                }
+                
+                
+            }
+            
+        }
+    }
+}

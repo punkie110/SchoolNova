@@ -1,0 +1,205 @@
+<head>
+    <meta charset="UTF-8">
+    <title>Mijn Website Bootstrap en CSS</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
+        integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+    <div class="container-fluid text-center" id="Navbar">
+        <nav class="navbar bg-body-tertiary fixed-top" style="background-color: #ffffff;">
+            <div class="container-fluid">
+                <a class="navbar-brand"
+                    href="file:///C:/Users/munkj/Desktop/School/Project 3 sopranos/Pizza Sopranos Project/indexHome.html">Pizzeria
+                    Sopranos</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas"
+                    data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <!--Sopranos pizza, een buitengewone byte per muisklik! An Extraordinary Bite with Every Click!-->
+                <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar"
+                    aria-labelledby="offcanvasNavbarLabel">
+                    <div class="offcanvas-header">
+                        <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Pizzeria Sopranos</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                    </div>
+                    <div class="offcanvas-body">
+                        <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page"
+                                    href="file:///C:/Users/munkj/Desktop/School/Project 3 sopranos/Pizza Sopranos Project/indexHome.html">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link"
+                                    href="file:///C:/Users/munkj/Desktop/School/Project 3 sopranos/Pizza Sopranos Project/indexBestellen.html">Bestellen</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                                    aria-expanded="false">
+                                    Meer
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item"
+                                            href="file:///C:/Users/munkj/Desktop/School/Project 3 sopranos/Pizza Sopranos Project/indexOverOns.html">Over
+                                            het Bedrijf</a></li>
+                                    <li><a class="dropdown-item"
+                                            href="file:///C:/Users/munkj/Desktop/School/Project 3 sopranos/Pizza Sopranos Project/indexOverPersoneel.html">Over
+                                            het personeel</a></li>
+                                    <li>
+                                        <hr class="dropdown-divider">
+                                    </li>
+                                    <li><a class="dropdown-item"
+                                            href="file:///C:/Users/munkj/Desktop/School/Project 3 sopranos/Pizza Sopranos Project/indexContact.html">Neem
+                                            contact op</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <form class="d-flex mt-3" role="search">
+                            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                            <button class="btn btn-outline-success" type="submit">Search</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+    </div>
+    </nav>
+    <div class="container-fluid" id="containerMain">
+        <div class="text-center">
+            <div class="row row-justify-content-center" id="onderHeader">
+                <div class="sopranos-afbeelding" id="afbeelding">
+                    <img src="Images/SopranosLogo.PNG" alt="Sopranos Logo">
+                </div>
+            </div>
+            <div class="row row-justify-content-center">
+                <div class="col">
+                    <img src="Images/sopranostest.jpg" class="img-fluid" alt="Sopranos Intro">
+                </div>
+                <div class="col">
+                    <div class="card" id="Kaartjes">
+                        <div class="card-header">
+                            <h2>Welkom bij Pizzeria Sopranos!</h2>
+                        </div>
+                        <div class="card-body">
+                            <h5>
+
+                                Heerlijke pizza's, rechtstreeks uit de Italiaanse keuken naar jouw smaakpapillen! Bij
+                                Pizzeria Sopranos draait alles om passie voor de perfecte pizza. Of je nu zin hebt in
+                                een knapperige Margherita, een pittige Pepperoni, of een verrukkelijke Vegetarische
+                                pizza, bij ons vind je altijd de smaak die bij je stemming past.
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <img src="Images/SopranosVoorPagina2.jpg" class="img-fluid" alt="Sopranos Intro">
+                </div>
+            </div>
+            <div class="row row-justify-content-center">
+                <div class="col">
+                    <div class="card" id="Kaartjes">
+                        <div class="card-header">
+                            <h2>
+                                Online Bestellen of Afhalen
+                            </h2>
+                        </div>
+                        <div class="card-body">
+                            <h5>
+                                Bij Sopranos maken we het bestellen van je favoriete pizza eenvoudiger dan
+                                ooit.
+                                Met slechts een paar klikken kun je jouw droompizza samenstellen en snel
+                                online
+                                bestellen. We bezorgen rechtstreeks bij jou thuis, zodat je kunt genieten
+                                van
+                                een heerlijke maaltijd zonder gedoe.
+                                Als je liever even de deur uit wilt, ben je van harte welkom om je
+                                bestelling
+                                bij ons op te halen. Onze vriendelijke medewerkers staan klaar om je te
+                                verwelkomen in onze gezellige pizzeria.
+                            </h5>
+                        </div>
+                        <img src="Images/SopranosBinnen.jpg" class="card-img-bottom" alt="Sopranos Van Binnen">
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card" id="Kaartjes">
+                        <div class="card-header">
+                            <h2>
+                                Ambachtelijke Kwaliteit
+                            </h2>
+                        </div>
+                        <div class="card-body">
+                            <h5>
+                                Bij Sopranos geloven we in de kracht van verse ingrediënten en
+                                traditionele recepten. Onze pizzabakkers zijn ware ambachtslieden die
+                                elke pizza met liefde bereiden, zodat elke hap een smaakexplosie is. We
+                                gebruiken alleen de beste mozzarella, de meest verse groenten en de
+                                meest smaakvolle sauzen om ervoor te zorgen dat elke pizza een
+                                meesterwerk is.
+                            </h5>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <img src="Images/Sopranosvoorbeeld2.jpg" class="img-fluid" alt="SopranosVoorpagina">
+                    </div>
+                </div>
+            </div>
+            <div class="row row-justify-content-center">
+                <div class="col">
+                    <div class="card" id="Kaartjes">
+                        <div class="card-header">
+                            <h2>
+                                Ontdek Onze Menukaart
+                            </h2>
+                        </div>
+                        <div class="card-body">
+                            <h5>
+                                Blader door onze uitgebreide menukaart om te zien welke pizza's,
+                                pasta's, salades en desserts we te bieden hebben. We hebben
+                                opties voor iedereen, inclusief vegetarische en glutenvrije
+                                gerechten, zodat iedereen kan genieten van de heerlijke smaken
+                                van Pizzeria Sopranos.
+                            </h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card" id="Kaartjes">
+                        <div class="card-header">
+                            <h2>
+                                Contact en Openingstijden
+                            </h2>
+                        </div>
+                        <div class="card-body">
+                            <h5>
+                                Heb je vragen of speciale verzoeken? Aarzel niet om
+                                contact met ons op te nemen. Onze klantenservice staat
+                                altijd voor je klaar.
+
+                                We kijken ernaar uit om je te verwelkomen bij Pizzeria
+                                Sopranos, waar passie voor pizza samensmelt met
+                                Italiaanse traditie. Bestel online of kom langs voor een
+                                onvergetelijke culinaire ervaring.
+
+                                Buon appetito!</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+    </div>
+    </div>
+    </div>
+</body>
+<div class="container" id="footer">
+    <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+        <div class="col-md-4 d-flex align-items-center">
+            <span class="mb-3 mb-md-0 text-muted">© 2023 Sopranos, Inc</span>
+        </div>
+    </footer>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+    crossorigin="anonymous"></script>

@@ -1,0 +1,14 @@
+#kaartjes
+{
+    color:black;
+}
+
+body{
+    margin: 0px;
+    padding: 56px;
+    background-image: url("../Images/GarageBG.jpeg");
+    background-size: cover;
+    color: white;
+ }
+
+ 

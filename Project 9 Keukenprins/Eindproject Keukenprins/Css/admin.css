@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    padding: 56px;
+    background-image: url("../Images/Keukenprins_bg5.jpeg");
+    background-size: auto;
+ }
+#navbar
+{
+    opacity: 70%;
+}
+#card
+{
+    opacity: 70%;
+}

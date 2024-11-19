@@ -1,0 +1,10 @@
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkKortingBerekenen\JustinMunkKortingBerekenen\bin\Debug\JustinMunkKortingBerekenen.exe.config
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkKortingBerekenen\JustinMunkKortingBerekenen\bin\Debug\JustinMunkKortingBerekenen.exe
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkKortingBerekenen\JustinMunkKortingBerekenen\bin\Debug\JustinMunkKortingBerekenen.pdb
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkKortingBerekenen\JustinMunkKortingBerekenen\obj\Debug\JustinMunkKortingBerekenen.csproj.AssemblyReference.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkKortingBerekenen\JustinMunkKortingBerekenen\obj\Debug\JustinMunkKortingBerekenen.Form1.resources
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkKortingBerekenen\JustinMunkKortingBerekenen\obj\Debug\JustinMunkKortingBerekenen.Properties.Resources.resources
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkKortingBerekenen\JustinMunkKortingBerekenen\obj\Debug\JustinMunkKortingBerekenen.csproj.GenerateResource.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkKortingBerekenen\JustinMunkKortingBerekenen\obj\Debug\JustinMunkKortingBerekenen.csproj.CoreCompileInputs.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkKortingBerekenen\JustinMunkKortingBerekenen\obj\Debug\JustinMunkKortingBerekenen.exe
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkKortingBerekenen\JustinMunkKortingBerekenen\obj\Debug\JustinMunkKortingBerekenen.pdb

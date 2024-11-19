@@ -1,0 +1,63 @@
+.myimage
+{
+	width: 100%;
+	height: 150px;
+	overflow: hidden;
+	
+}
+
+.img1
+{
+	width: 100%;
+	margin-top: -250px;
+}
+
+sidebar
+{
+	width: 30%;
+	float: right;
+}
+
+.title
+{
+  position: absolute;
+  top: 25px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+body
+{
+	background-color: black !important;
+}
+
+img
+{
+float: right;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: seagreen;
+   color: white;
+   text-align: center;
+}
+
+.bgvideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -100;
+  opacity: 0.4;
+  filter: blur(1px);
+}
+
+.mapouter
+{
+z-index: -100;
+}

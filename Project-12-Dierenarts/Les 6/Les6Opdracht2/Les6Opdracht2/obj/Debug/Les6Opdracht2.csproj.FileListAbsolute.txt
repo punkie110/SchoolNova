@@ -1,0 +1,10 @@
+D:\Desktop\School\Project-14-Dierenarts\Les 6\Les6Opdracht2\Les6Opdracht2\bin\Debug\Les6Opdracht2.exe.config
+D:\Desktop\School\Project-14-Dierenarts\Les 6\Les6Opdracht2\Les6Opdracht2\bin\Debug\Les6Opdracht2.exe
+D:\Desktop\School\Project-14-Dierenarts\Les 6\Les6Opdracht2\Les6Opdracht2\bin\Debug\Les6Opdracht2.pdb
+D:\Desktop\School\Project-14-Dierenarts\Les 6\Les6Opdracht2\Les6Opdracht2\obj\Debug\Les6Opdracht2.csproj.AssemblyReference.cache
+D:\Desktop\School\Project-14-Dierenarts\Les 6\Les6Opdracht2\Les6Opdracht2\obj\Debug\Les6Opdracht2.Form1.resources
+D:\Desktop\School\Project-14-Dierenarts\Les 6\Les6Opdracht2\Les6Opdracht2\obj\Debug\Les6Opdracht2.Properties.Resources.resources
+D:\Desktop\School\Project-14-Dierenarts\Les 6\Les6Opdracht2\Les6Opdracht2\obj\Debug\Les6Opdracht2.csproj.GenerateResource.cache
+D:\Desktop\School\Project-14-Dierenarts\Les 6\Les6Opdracht2\Les6Opdracht2\obj\Debug\Les6Opdracht2.csproj.CoreCompileInputs.cache
+D:\Desktop\School\Project-14-Dierenarts\Les 6\Les6Opdracht2\Les6Opdracht2\obj\Debug\Les6Opdracht2.exe
+D:\Desktop\School\Project-14-Dierenarts\Les 6\Les6Opdracht2\Les6Opdracht2\obj\Debug\Les6Opdracht2.pdb

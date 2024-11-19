@@ -1,0 +1,10 @@
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\NaamStudent - OpdrachtBoolean1\OpdrachtBoolean1\obj\Debug\OpdrachtBoolean1.csproj.AssemblyReference.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\NaamStudent - OpdrachtBoolean1\OpdrachtBoolean1\obj\Debug\YildizKurtLes1Boolean1.Form1.resources
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\NaamStudent - OpdrachtBoolean1\OpdrachtBoolean1\obj\Debug\OpdrachtBoolean1.Properties.Resources.resources
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\NaamStudent - OpdrachtBoolean1\OpdrachtBoolean1\obj\Debug\OpdrachtBoolean1.csproj.GenerateResource.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\NaamStudent - OpdrachtBoolean1\OpdrachtBoolean1\obj\Debug\OpdrachtBoolean1.csproj.CoreCompileInputs.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\NaamStudent - OpdrachtBoolean1\OpdrachtBoolean1\bin\Debug\OpdrachtBoolean1.exe.config
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\NaamStudent - OpdrachtBoolean1\OpdrachtBoolean1\bin\Debug\OpdrachtBoolean1.exe
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\NaamStudent - OpdrachtBoolean1\OpdrachtBoolean1\bin\Debug\OpdrachtBoolean1.pdb
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\NaamStudent - OpdrachtBoolean1\OpdrachtBoolean1\obj\Debug\OpdrachtBoolean1.exe
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\NaamStudent - OpdrachtBoolean1\OpdrachtBoolean1\obj\Debug\OpdrachtBoolean1.pdb

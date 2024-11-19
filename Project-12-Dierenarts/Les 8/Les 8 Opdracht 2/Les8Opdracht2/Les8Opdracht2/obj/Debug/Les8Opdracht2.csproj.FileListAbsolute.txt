@@ -1,0 +1,10 @@
+D:\Desktop\School\Project-14-Dierenarts\Les 8\Les 8 Opdracht 2\Les8Opdracht2\Les8Opdracht2\bin\Debug\Les8Opdracht2.exe.config
+D:\Desktop\School\Project-14-Dierenarts\Les 8\Les 8 Opdracht 2\Les8Opdracht2\Les8Opdracht2\bin\Debug\Les8Opdracht2.exe
+D:\Desktop\School\Project-14-Dierenarts\Les 8\Les 8 Opdracht 2\Les8Opdracht2\Les8Opdracht2\bin\Debug\Les8Opdracht2.pdb
+D:\Desktop\School\Project-14-Dierenarts\Les 8\Les 8 Opdracht 2\Les8Opdracht2\Les8Opdracht2\obj\Debug\Les8Opdracht2.csproj.AssemblyReference.cache
+D:\Desktop\School\Project-14-Dierenarts\Les 8\Les 8 Opdracht 2\Les8Opdracht2\Les8Opdracht2\obj\Debug\Les8Opdracht2.Form1.resources
+D:\Desktop\School\Project-14-Dierenarts\Les 8\Les 8 Opdracht 2\Les8Opdracht2\Les8Opdracht2\obj\Debug\Les8Opdracht2.Properties.Resources.resources
+D:\Desktop\School\Project-14-Dierenarts\Les 8\Les 8 Opdracht 2\Les8Opdracht2\Les8Opdracht2\obj\Debug\Les8Opdracht2.csproj.GenerateResource.cache
+D:\Desktop\School\Project-14-Dierenarts\Les 8\Les 8 Opdracht 2\Les8Opdracht2\Les8Opdracht2\obj\Debug\Les8Opdracht2.csproj.CoreCompileInputs.cache
+D:\Desktop\School\Project-14-Dierenarts\Les 8\Les 8 Opdracht 2\Les8Opdracht2\Les8Opdracht2\obj\Debug\Les8Opdracht2.exe
+D:\Desktop\School\Project-14-Dierenarts\Les 8\Les 8 Opdracht 2\Les8Opdracht2\Les8Opdracht2\obj\Debug\Les8Opdracht2.pdb

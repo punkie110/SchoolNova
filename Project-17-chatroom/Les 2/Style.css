@@ -1,0 +1,14 @@
+body
+{
+    color: azure;
+    background-color: gray;
+
+}
+
+#paragraaf div
+{
+    color: black;
+    background-color: lightblue;
+    margin: 20px;
+    padding: 20px;
+}

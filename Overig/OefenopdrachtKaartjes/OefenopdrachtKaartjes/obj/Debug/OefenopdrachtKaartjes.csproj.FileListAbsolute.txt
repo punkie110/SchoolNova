@@ -1,0 +1,10 @@
+C:\Users\munkj\Desktop\School\Overig\OefenopdrachtKaartjes\OefenopdrachtKaartjes\bin\Debug\OefenopdrachtKaartjes.exe.config
+C:\Users\munkj\Desktop\School\Overig\OefenopdrachtKaartjes\OefenopdrachtKaartjes\bin\Debug\OefenopdrachtKaartjes.exe
+C:\Users\munkj\Desktop\School\Overig\OefenopdrachtKaartjes\OefenopdrachtKaartjes\bin\Debug\OefenopdrachtKaartjes.pdb
+C:\Users\munkj\Desktop\School\Overig\OefenopdrachtKaartjes\OefenopdrachtKaartjes\obj\Debug\OefenopdrachtKaartjes.csproj.AssemblyReference.cache
+C:\Users\munkj\Desktop\School\Overig\OefenopdrachtKaartjes\OefenopdrachtKaartjes\obj\Debug\OefenopdrachtKaartjes.Form1.resources
+C:\Users\munkj\Desktop\School\Overig\OefenopdrachtKaartjes\OefenopdrachtKaartjes\obj\Debug\OefenopdrachtKaartjes.Properties.Resources.resources
+C:\Users\munkj\Desktop\School\Overig\OefenopdrachtKaartjes\OefenopdrachtKaartjes\obj\Debug\OefenopdrachtKaartjes.csproj.GenerateResource.cache
+C:\Users\munkj\Desktop\School\Overig\OefenopdrachtKaartjes\OefenopdrachtKaartjes\obj\Debug\OefenopdrachtKaartjes.csproj.CoreCompileInputs.cache
+C:\Users\munkj\Desktop\School\Overig\OefenopdrachtKaartjes\OefenopdrachtKaartjes\obj\Debug\OefenopdrachtKaartjes.exe
+C:\Users\munkj\Desktop\School\Overig\OefenopdrachtKaartjes\OefenopdrachtKaartjes\obj\Debug\OefenopdrachtKaartjes.pdb

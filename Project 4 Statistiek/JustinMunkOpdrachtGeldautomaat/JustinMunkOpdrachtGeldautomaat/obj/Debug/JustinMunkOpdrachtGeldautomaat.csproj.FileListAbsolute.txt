@@ -1,0 +1,10 @@
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtGeldautomaat\JustinMunkOpdrachtGeldautomaat\bin\Debug\JustinMunkOpdrachtGeldautomaat.exe.config
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtGeldautomaat\JustinMunkOpdrachtGeldautomaat\bin\Debug\JustinMunkOpdrachtGeldautomaat.exe
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtGeldautomaat\JustinMunkOpdrachtGeldautomaat\bin\Debug\JustinMunkOpdrachtGeldautomaat.pdb
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtGeldautomaat\JustinMunkOpdrachtGeldautomaat\obj\Debug\JustinMunkOpdrachtGeldautomaat.csproj.AssemblyReference.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtGeldautomaat\JustinMunkOpdrachtGeldautomaat\obj\Debug\JustinMunkOpdrachtGeldautomaat.Form1.resources
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtGeldautomaat\JustinMunkOpdrachtGeldautomaat\obj\Debug\JustinMunkOpdrachtGeldautomaat.Properties.Resources.resources
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtGeldautomaat\JustinMunkOpdrachtGeldautomaat\obj\Debug\JustinMunkOpdrachtGeldautomaat.csproj.GenerateResource.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtGeldautomaat\JustinMunkOpdrachtGeldautomaat\obj\Debug\JustinMunkOpdrachtGeldautomaat.csproj.CoreCompileInputs.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtGeldautomaat\JustinMunkOpdrachtGeldautomaat\obj\Debug\JustinMunkOpdrachtGeldautomaat.exe
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtGeldautomaat\JustinMunkOpdrachtGeldautomaat\obj\Debug\JustinMunkOpdrachtGeldautomaat.pdb

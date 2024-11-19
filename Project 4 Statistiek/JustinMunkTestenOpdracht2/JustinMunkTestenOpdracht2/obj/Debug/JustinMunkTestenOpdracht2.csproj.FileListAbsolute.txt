@@ -1,0 +1,10 @@
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkTestenOpdracht2\JustinMunkTestenOpdracht2\bin\Debug\JustinMunkTestenOpdracht2.exe.config
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkTestenOpdracht2\JustinMunkTestenOpdracht2\bin\Debug\JustinMunkTestenOpdracht2.exe
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkTestenOpdracht2\JustinMunkTestenOpdracht2\bin\Debug\JustinMunkTestenOpdracht2.pdb
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkTestenOpdracht2\JustinMunkTestenOpdracht2\obj\Debug\JustinMunkTestenOpdracht2.csproj.AssemblyReference.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkTestenOpdracht2\JustinMunkTestenOpdracht2\obj\Debug\JustinMunkTestenOpdracht2.Form1.resources
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkTestenOpdracht2\JustinMunkTestenOpdracht2\obj\Debug\JustinMunkTestenOpdracht2.Properties.Resources.resources
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkTestenOpdracht2\JustinMunkTestenOpdracht2\obj\Debug\JustinMunkTestenOpdracht2.csproj.GenerateResource.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkTestenOpdracht2\JustinMunkTestenOpdracht2\obj\Debug\JustinMunkTestenOpdracht2.csproj.CoreCompileInputs.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkTestenOpdracht2\JustinMunkTestenOpdracht2\obj\Debug\JustinMunkTestenOpdracht2.exe
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkTestenOpdracht2\JustinMunkTestenOpdracht2\obj\Debug\JustinMunkTestenOpdracht2.pdb

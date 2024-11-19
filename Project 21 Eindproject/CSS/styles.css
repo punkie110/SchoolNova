@@ -1,0 +1,243 @@
+body {
+    background-color: #f8f9fa; /* Lichte achtergrondkleur */
+}
+
+.navbar {
+    background-color: rgba(128, 128, 128, 0.7); /* Semi-transparante grijze achtergrond */
+    backdrop-filter: blur(10px); /* Optionele blur-effect voor de achtergrond */
+    border: none; /* Verwijder rand, indien gewenst */
+}
+
+.background {
+    background-image: url("../Upload/larustiguebg.jpeg"); /* Je nieuwe achtergrondafbeelding */
+    background-size: cover; /* Zorgt ervoor dat de afbeelding het hele scherm bedekt */
+    background-position: center; /* Centraal uitlijnen */
+    background-repeat: no-repeat; /* Voorkomt dat de afbeelding herhaald wordt */
+    filter: blur(8px); /* Pas de blur toe op de achtergrondafbeelding */
+    position: fixed; /* Houdt de achtergrond vast */
+    width: 100%;
+    height: 100vh; /* Zorgt ervoor dat het de volledige hoogte van het venster beslaat */
+    z-index: -1; /* Zorgt ervoor dat het achter andere elementen staat */
+}
+
+.card {
+    background-color: rgba(128, 128, 128, 0.7); /* Lichtere achtergrondkleur voor de kaart */
+    border: none; /* Geen rand */
+    border-radius: 15px; /* Ronde hoeken */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Lichte schaduw voor diepte */
+    transition: transform 0.2s; /* Zachte overgang bij hover */
+}
+
+.card:hover {
+    transform: translateY(-5px); /* Verplaats de kaart iets omhoog bij hover */
+}
+
+.card img {
+    max-width: 100%; /* Zorgt ervoor dat de afbeelding niet wordt afgekapt */
+    height: auto; /* Houd de verhoudingen van de afbeelding */
+    border-top-left-radius: 15px; /* Ronde hoeken voor bovenkant afbeelding */
+    border-top-right-radius: 15px; /* Ronde hoeken voor bovenkant afbeelding */
+}
+
+.card-header {
+    background-color: #007bff; /* Een levendigere achtergrondkleur voor de header */
+    color: white; /* Witte tekstkleur */
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.btn {
+    border-radius: 20px; /* Ronde knoppen */
+    padding: 10px 20px; /* Meer padding voor knoppen */
+    background-color: #007bff; /* Voeg een achtergrondkleur toe */
+    color: white; /* Witte tekstkleur */
+    border: none; /* Geen rand */
+    cursor: pointer; /* Cursor pointer bij hover */
+    transition: background-color 0.3s; /* Overgang voor de achtergrondkleur */
+}
+
+.btn:hover {
+    background-color: #0056b3; /* Donkerdere achtergrondkleur bij hover */
+}
+
+#addUser img {
+    width: 100%; /* Zorgt ervoor dat de afbeelding de breedte van de kaart volgt */
+    height: auto; /* Houdt de verhoudingen van de afbeelding */
+    max-height: 150px; /* Beperk de hoogte van de afbeelding */
+}
+
+#addUser {
+    max-width: 300px; /* Pas deze waarde aan naar wens */
+    margin: 10px; /* Voeg wat marge toe tussen kaarten */
+}
+
+#dialog {
+    overflow: auto; /* Maakt het mogelijk om te scrollen als de inhoud groter is dan het venster */
+}
+
+.ui-resizable-handle {
+    display: none !important; /* Verbergt de resize-handles zodat resizing fysiek onmogelijk is */
+}
+
+.image-container {
+    position: relative;
+    max-width: 1400px;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+}
+
+#login {
+    background-image: url("../Upload/larustigue.jpg");
+    background-size: cover; /* Zorgt ervoor dat de afbeelding het hele scherm bedekt */
+    background-position: center; /* Centraal uitlijnen */
+    background-repeat: no-repeat; /* Voorkomt dat de afbeelding herhaald wordt */
+    height: 100vh; /* Zorgt ervoor dat het element de volledige hoogte van het venster in beslag neemt */
+}
+
+.form-container {
+    background-color: rgba(255, 255, 255, 0.9); /* Maak de achtergrond iets minder transparant voor beter contrast */
+    border-radius: 15px; /* Rond de hoeken af */
+    padding: 30px; /* Voeg wat padding toe */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5); /* Optionele schaduw voor diepte */
+}
+
+.booked a {
+    background-color: red;  /* Rode achtergrondkleur voor geboekte datums */
+    color: white;           /* Tekstkleur wit */
+}
+
+.square {
+    position: absolute;
+    width: 50px; /* Pas de grootte aan naar wens */
+    height: 60px; /* Pas de grootte aan naar wens */
+    border: 2px solid rgba(255, 0, 0, 0.5); /* Voorbeeld rand */
+    cursor: default; /* Geen pointer cursors, omdat gebruikers niet mogen klikken */
+    display: flex; /* Flexbox voor centreren */
+    justify-content: center;
+    align-items: center;
+    font-size: 24px; /* Grootte van het nummer */
+    color: #fff; /* Kleur van het nummer */
+    background-color: rgba(0, 0, 0, 0.5); /* Achtergrondkleur van de vakjes */
+}
+
+.input-container {
+    display: flex; /* Gebruik flexbox voor een horizontale uitlijning */
+    align-items: center; /* Zorg ervoor dat de items verticaal gecentreerd zijn */
+    justify-content: center; /* Center de inhoud horizontaal */
+    margin-bottom: 15px; /* Ruimte tussen de invoervelden */
+}
+
+.input-container label {
+    font-size: 20px; /* Verander de lettergrootte van het label */
+    color: #777; /* Kleur van de labeltekst */
+    margin-right: 10px; /* Ruimte tussen label en invoerveld */
+    order: -1; /* Zorg ervoor dat het label voor de input staat */
+}
+
+.input-container input {
+    width: 50%; /* Zorgt ervoor dat het invoerveld 50% breed is */
+    padding: 10px; /* Voeg padding toe voor een betere uitstraling */
+    border: 1px solid #ccc; /* Grijze rand voor de invoervelden */
+    border-radius: 5px; /* Ronde hoeken */
+    font-size: 16px; /* Vergroot de tekstgrootte */
+    margin-top: 5px; /* Ruimte boven het invoerveld */
+}
+
+
+
+/* Algemene stijl voor de checkbox-label */
+.checkbox-label {
+    display: flex;
+    align-items: center; /* Zorgt ervoor dat de checkbox en tekst in lijn staan */
+    justify-content: center; /* Centreert de checkbox en label tekst */
+    margin-bottom: 10px; /* Ruimte onder de checkbox */
+}
+
+/* Verstevigt de checkbox */
+.checkbox-label input {
+    display: none; /* Verbergt de standaard checkbox */
+    margin-right: 10px; /* Ruimte tussen checkbox en label tekst */
+}
+
+/* Styling voor de checkmark */
+.checkmark {
+    width: 25px; /* Breedte van de checkbox */
+    height: 25px; /* Hoogte van de checkbox */
+    border: 2px solid #ccc; /* Grijze rand */
+    border-radius: 5px; /* Ronde hoeken */
+    margin-right: 10px; /* Ruimte tussen checkbox en label tekst */
+    position: relative; /* Voor positionering van het vinkje */
+    transition: background-color 0.3s, border-color 0.3s; /* Soepele overgangseffecten */
+}
+
+/* Styling voor het vinkje */
+.checkbox-label input:checked + .checkmark {
+    background-color: #28a745; /* Groene achtergrond als de checkbox is aangevinkt */
+    border-color: #28a745; /* Groene rand als de checkbox is aangevinkt */
+}
+
+.checkmark::after {
+    content: "";
+    display: none; /* Verbergt het vinkje standaard */
+    position: absolute;
+    left: 6px; /* Positioneert het vinkje binnen de checkbox */
+    top: 1px; /* Positioneert het vinkje binnen de checkbox */
+    width: 7px; /* Breedte van het vinkje */
+    height: 15px; /* Hoogte van het vinkje */
+    border: solid white; /* Witte kleur voor het vinkje */
+    border-width: 0 2px 2px 0; /* Hoekige lijn */
+    transform: rotate(45deg); /* Draait het vinkje voor een 'v' vorm */
+}
+
+/* Weergeven van het vinkje als de checkbox is aangevinkt */
+.checkbox-label input:checked + .checkmark::after {
+    display: block; /* Toont het vinkje als de checkbox is aangevinkt */
+}
+
+/* Styling voor de file input */
+/* File input styling */
+.file-input {
+    margin-bottom: 20px; /* Ruimte onder de file input */
+}
+
+.file-input input[type="file"] {
+    width: 100%; /* Vul de breedte van de container */
+    height: 50px; /* Hoogte van de file input */
+    opacity: 0; /* Verberg de invoer, zodat het niet zichtbaar is */
+    position: absolute; /* Positioneer de invoer boven het label */
+    top: 0;
+    left: 0;
+    z-index: 2; /* Zorgt ervoor dat de invoer boven het label staat */
+}
+ .file-input label { 
+    background-color: #007bff; /* Blauwe achtergrondkleur voor het label */
+     color: white; /* Witte tekstkleur */
+     border-radius: 5px; /* Ronde hoeken */
+     padding: 10px; /* Voeg padding toe voor een betere uitstraling */
+     text-align: center; /* Centreert de tekst */
+    display: block; /* Zorgt ervoor dat het label een blok is */
+     cursor: pointer; /* Verander de cursor naar een pointer */
+    transition: background-color 0.3s; /* Soepele overgang voor de achtergrondkleur */
+} 
+
+.file-input label:hover {
+    background-color: #0056b3; /* Donkerdere blauwe achtergrondkleur bij hover */
+}
+
+/* Style for default (unchecked) buttons */
+.custom-btn {
+    color: white; /* Text color */
+    background-color: grey; /* Default background color */
+    border-color: grey; /* Default border color */
+}
+
+/* Style for checked buttons */
+.btn-check:checked + .custom-btn {
+    background-color: blue; /* Background when checked */
+    border-color: blue; /* Border when checked */
+    color: white; /* Text color when checked */
+}
+

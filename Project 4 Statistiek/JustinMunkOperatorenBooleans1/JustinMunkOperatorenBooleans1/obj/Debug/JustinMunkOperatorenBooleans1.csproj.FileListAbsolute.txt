@@ -1,0 +1,10 @@
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOperatorenBooleans1\JustinMunkOperatorenBooleans1\bin\Debug\JustinMunkOperatorenBooleans1.exe.config
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOperatorenBooleans1\JustinMunkOperatorenBooleans1\bin\Debug\JustinMunkOperatorenBooleans1.exe
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOperatorenBooleans1\JustinMunkOperatorenBooleans1\bin\Debug\JustinMunkOperatorenBooleans1.pdb
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOperatorenBooleans1\JustinMunkOperatorenBooleans1\obj\Debug\JustinMunkOperatorenBooleans1.csproj.AssemblyReference.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOperatorenBooleans1\JustinMunkOperatorenBooleans1\obj\Debug\JustinMunkOperatorenBooleans1.Form1.resources
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOperatorenBooleans1\JustinMunkOperatorenBooleans1\obj\Debug\JustinMunkOperatorenBooleans1.Properties.Resources.resources
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOperatorenBooleans1\JustinMunkOperatorenBooleans1\obj\Debug\JustinMunkOperatorenBooleans1.csproj.GenerateResource.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOperatorenBooleans1\JustinMunkOperatorenBooleans1\obj\Debug\JustinMunkOperatorenBooleans1.csproj.CoreCompileInputs.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOperatorenBooleans1\JustinMunkOperatorenBooleans1\obj\Debug\JustinMunkOperatorenBooleans1.exe
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOperatorenBooleans1\JustinMunkOperatorenBooleans1\obj\Debug\JustinMunkOperatorenBooleans1.pdb

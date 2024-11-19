@@ -1,0 +1,10 @@
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkDoWhileLusOpdracht6\JustinMunkDoWhileLusOpdracht6\bin\Debug\JustinMunkDoWhileLusOpdracht6.exe.config
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkDoWhileLusOpdracht6\JustinMunkDoWhileLusOpdracht6\bin\Debug\JustinMunkDoWhileLusOpdracht6.exe
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkDoWhileLusOpdracht6\JustinMunkDoWhileLusOpdracht6\bin\Debug\JustinMunkDoWhileLusOpdracht6.pdb
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkDoWhileLusOpdracht6\JustinMunkDoWhileLusOpdracht6\obj\Debug\JustinMunkDoWhileLusOpdracht6.csproj.AssemblyReference.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkDoWhileLusOpdracht6\JustinMunkDoWhileLusOpdracht6\obj\Debug\JustinMunkDoWhileLusOpdracht6.Form1.resources
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkDoWhileLusOpdracht6\JustinMunkDoWhileLusOpdracht6\obj\Debug\JustinMunkDoWhileLusOpdracht6.Properties.Resources.resources
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkDoWhileLusOpdracht6\JustinMunkDoWhileLusOpdracht6\obj\Debug\JustinMunkDoWhileLusOpdracht6.csproj.GenerateResource.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkDoWhileLusOpdracht6\JustinMunkDoWhileLusOpdracht6\obj\Debug\JustinMunkDoWhileLusOpdracht6.csproj.CoreCompileInputs.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkDoWhileLusOpdracht6\JustinMunkDoWhileLusOpdracht6\obj\Debug\JustinMunkDoWhileLusOpdracht6.exe
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkDoWhileLusOpdracht6\JustinMunkDoWhileLusOpdracht6\obj\Debug\JustinMunkDoWhileLusOpdracht6.pdb

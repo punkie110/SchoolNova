@@ -1,0 +1,10 @@
+D:\Desktop\School\Project-14-Bluebird\Bluebird Eindproject\Project Bluebird\Project Bluebird\bin\Debug\Project Bluebird.exe.config
+D:\Desktop\School\Project-14-Bluebird\Bluebird Eindproject\Project Bluebird\Project Bluebird\bin\Debug\Project Bluebird.exe
+D:\Desktop\School\Project-14-Bluebird\Bluebird Eindproject\Project Bluebird\Project Bluebird\bin\Debug\Project Bluebird.pdb
+D:\Desktop\School\Project-14-Bluebird\Bluebird Eindproject\Project Bluebird\Project Bluebird\obj\Debug\Project Bluebird.csproj.AssemblyReference.cache
+D:\Desktop\School\Project-14-Bluebird\Bluebird Eindproject\Project Bluebird\Project Bluebird\obj\Debug\Project_Bluebird.Form1.resources
+D:\Desktop\School\Project-14-Bluebird\Bluebird Eindproject\Project Bluebird\Project Bluebird\obj\Debug\Project_Bluebird.Properties.Resources.resources
+D:\Desktop\School\Project-14-Bluebird\Bluebird Eindproject\Project Bluebird\Project Bluebird\obj\Debug\Project Bluebird.csproj.GenerateResource.cache
+D:\Desktop\School\Project-14-Bluebird\Bluebird Eindproject\Project Bluebird\Project Bluebird\obj\Debug\Project Bluebird.csproj.CoreCompileInputs.cache
+D:\Desktop\School\Project-14-Bluebird\Bluebird Eindproject\Project Bluebird\Project Bluebird\obj\Debug\Project Bluebird.exe
+D:\Desktop\School\Project-14-Bluebird\Bluebird Eindproject\Project Bluebird\Project Bluebird\obj\Debug\Project Bluebird.pdb

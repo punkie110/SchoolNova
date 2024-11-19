@@ -1,0 +1,28 @@
+D:\Program files\Visual studio projects\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\bin\Debug\net6.0\JustinMunkOpdrachtPatronen.exe
+D:\Program files\Visual studio projects\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\bin\Debug\net6.0\JustinMunkOpdrachtPatronen.deps.json
+D:\Program files\Visual studio projects\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\bin\Debug\net6.0\JustinMunkOpdrachtPatronen.runtimeconfig.json
+D:\Program files\Visual studio projects\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\bin\Debug\net6.0\JustinMunkOpdrachtPatronen.dll
+D:\Program files\Visual studio projects\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\bin\Debug\net6.0\JustinMunkOpdrachtPatronen.pdb
+D:\Program files\Visual studio projects\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\obj\Debug\net6.0\JustinMunkOpdrachtPatronen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program files\Visual studio projects\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\obj\Debug\net6.0\JustinMunkOpdrachtPatronen.AssemblyInfoInputs.cache
+D:\Program files\Visual studio projects\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\obj\Debug\net6.0\JustinMunkOpdrachtPatronen.AssemblyInfo.cs
+D:\Program files\Visual studio projects\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\obj\Debug\net6.0\JustinMunkOpdrachtPatronen.csproj.CoreCompileInputs.cache
+D:\Program files\Visual studio projects\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\obj\Debug\net6.0\JustinMunkOpdrachtPatronen.dll
+D:\Program files\Visual studio projects\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\obj\Debug\net6.0\refint\JustinMunkOpdrachtPatronen.dll
+D:\Program files\Visual studio projects\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\obj\Debug\net6.0\JustinMunkOpdrachtPatronen.pdb
+D:\Program files\Visual studio projects\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\obj\Debug\net6.0\JustinMunkOpdrachtPatronen.genruntimeconfig.cache
+D:\Program files\Visual studio projects\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\obj\Debug\net6.0\ref\JustinMunkOpdrachtPatronen.dll
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\bin\Debug\net6.0\JustinMunkOpdrachtPatronen.exe
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\bin\Debug\net6.0\JustinMunkOpdrachtPatronen.deps.json
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\bin\Debug\net6.0\JustinMunkOpdrachtPatronen.runtimeconfig.json
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\bin\Debug\net6.0\JustinMunkOpdrachtPatronen.dll
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\bin\Debug\net6.0\JustinMunkOpdrachtPatronen.pdb
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\obj\Debug\net6.0\JustinMunkOpdrachtPatronen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\obj\Debug\net6.0\JustinMunkOpdrachtPatronen.AssemblyInfoInputs.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\obj\Debug\net6.0\JustinMunkOpdrachtPatronen.AssemblyInfo.cs
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\obj\Debug\net6.0\JustinMunkOpdrachtPatronen.csproj.CoreCompileInputs.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\obj\Debug\net6.0\JustinMunkOpdrachtPatronen.dll
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\obj\Debug\net6.0\refint\JustinMunkOpdrachtPatronen.dll
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\obj\Debug\net6.0\JustinMunkOpdrachtPatronen.pdb
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\obj\Debug\net6.0\JustinMunkOpdrachtPatronen.genruntimeconfig.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\JustinMunkOpdrachtPatronen\JustinMunkOpdrachtPatronen\obj\Debug\net6.0\ref\JustinMunkOpdrachtPatronen.dll

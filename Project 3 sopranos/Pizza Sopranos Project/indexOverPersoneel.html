@@ -1,0 +1,128 @@
+<head>
+    <meta charset="UTF-8">
+    <title>Mijn Website Bootstrap en CSS</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
+        integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+    <div class="container-fluid text-center" id="Navbar">
+        <nav class="navbar bg-body-tertiary fixed-top" style="background-color: #ffffff;">
+            <div class="container-fluid">
+                <a class="navbar-brand"
+                    href="file:///C:/Users/munkj/Desktop/School/Project 3 sopranos/Pizza Sopranos Project/indexHome.html">Pizzeria
+                    Sopranos</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas"
+                    data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar"
+                    aria-labelledby="offcanvasNavbarLabel">
+                    <div class="offcanvas-header">
+                        <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Pizzeria Sopranos</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                    </div>
+                    <div class="offcanvas-body">
+                        <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                            <li class="nav-item">
+                                <a class="nav-link"
+                                    href="file:///C:/Users/munkj/Desktop/School/Project 3 sopranos/Pizza Sopranos Project/indexHome.html">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link"
+                                    href="file:///C:/Users/munkj/Desktop/School/Project 3 sopranos/Pizza Sopranos Project/indexBestellen.html">Bestellen</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                                    aria-expanded="false">
+                                    Meer
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item"
+                                            href="file:///C:/Users/munkj/Desktop/School/Project 3 sopranos/Pizza Sopranos Project/indexOverOns.html">Over
+                                            het Bedrijf</a></li>
+                                    <li><a class="dropdown-item"
+                                            href="file:///C:/Users/munkj/Desktop/School/Project 3 sopranos/Pizza Sopranos Project/indexOverPersoneel.html">Over
+                                            het personeel</a></li>
+                                    <li>
+                                        <hr class="dropdown-divider">
+                                    </li>
+                                    <li><a class="dropdown-item"
+                                            href="file:///C:/Users/munkj/Desktop/School/Project 3 sopranos/Pizza Sopranos Project/indexContact.html">Neem
+                                            contact op</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <form class="d-flex mt-3" role="search">
+                            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                            <button class="btn btn-outline-success" type="submit">Search</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+    </div>
+    </nav>
+    <div class="container-fluid" id="containerMain">
+        <div class="text-center">
+            <div class="row row-justify-content-center" id="onderHeader">
+                <div class="sopranos-afbeelding" id="afbeelding">
+                    <img src="Images/SopranosLogo.PNG" alt="SopranosLogo">
+                </div>
+            </div>
+            <div class="card-group">
+                <div class="card" id="Kaartjes">
+                    <img src="Images/chefErik.jpeg" class="card-img-top" alt="chefErik">
+                    <div class="card-body">
+                        <h5 class="card-title">Onze chef, Erik:</h5>
+                        <p class="card-text">Chef Erik is het creatieve brein achter de overheerlijke gerechten bij
+                            Sopranos
+                            Pizzeria. Met een passie voor koken en jarenlange ervaring in de keuken, heeft hij de
+                            kunst van de perfecte pizza onder de knie. Zijn toewijding aan verse ingrediënten en
+                            traditionele recepten zorgt ervoor dat elke hap een smaakvolle ervaring is. Erik's
+                            geheim? Liefde en aandacht voor elk gerecht dat de keuken verlaat.</p>
+                        <p class="card-text"><small class="text-body-secondary">In dienst sinds: 2010</small></p>
+                    </div>
+                </div>
+                <div class="card" id="Kaartjes">
+                    <img src="Images/erikThuisbezorgd.jpeg" class="card-img-top" alt="ErikThuisbezorgd">
+                    <div class="card-body">
+                        <h5 class="card-title">Onze bezorger, Erik:</h5>
+                        <p class="card-text">Bij Sopranos Pizzeria is Erik niet alleen een geweldige bezorger, maar ook
+                            een echte
+                            levensgenieter. Met een glimlach bezorgt hij jouw favoriete pizza's en maaltijden
+                            razendsnel
+                            aan je deur. Erik heeft de gave om altijd op tijd te zijn, ongeacht het weer of de
+                            verkeersdrukte. Hij zorgt ervoor dat jouw warme, smaakvolle maaltijd precies wanneer
+                            je het
+                            wilt bij je wordt afgeleverd.</p>
+                        <p class="card-text"><small class="text-body-secondary">In dienst sinds: 2018</small></p>
+                    </div>
+                </div>
+                <div class="card" id="Kaartjes">
+                    <img src="Images/erikSainz.jpeg" class="card-img-top" alt="ErikSainz">
+                    <div class="card-body">
+                        <h5 class="card-title">De Coureur, Carlos Erikssen:</h5>
+                        <p class="card-text">Carlos Erikssen is niet alleen een snelheidsduivel op de Formule
+                            1-circuits, maar ook
+                            een gewaardeerde coureur voor ons Sopranos Ferrari Formule 1-team. Wanneer hij niet in
+                            zijn racewagen zit, zie je hem vaak genieten van een heerlijke pizza bij Sopranos
+                            Pizzeria. Zijn passie voor racen en goed eten komt samen bij Sopranos, waar hij een
+                            vaste klant is en waar we trots zijn op zijn succes op en naast het circuit.</p>
+                        <p class="card-text"><small class="text-body-secondary">Rijd sinds: 2017</small></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<div class="container" id="footer">
+    <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+        <div class="col-md-4 d-flex align-items-center">
+            <span class="mb-3 mb-md-0 text-muted">© 2023 Sopranos, Inc</span>
+        </div>
+    </footer>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+    crossorigin="anonymous"></script>`

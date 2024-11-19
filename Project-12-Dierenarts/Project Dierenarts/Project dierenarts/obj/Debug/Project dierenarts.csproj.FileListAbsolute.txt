@@ -1,0 +1,26 @@
+D:\Desktop\School\Project-14-Dierenarts\Les 8\Les 8 Opdracht 2\Project dierenarts\Project dierenarts\bin\Debug\Project dierenarts.exe.config
+D:\Desktop\School\Project-14-Dierenarts\Les 8\Les 8 Opdracht 2\Project dierenarts\Project dierenarts\bin\Debug\Project dierenarts.exe
+D:\Desktop\School\Project-14-Dierenarts\Les 8\Les 8 Opdracht 2\Project dierenarts\Project dierenarts\bin\Debug\Project dierenarts.pdb
+D:\Desktop\School\Project-14-Dierenarts\Les 8\Les 8 Opdracht 2\Project dierenarts\Project dierenarts\obj\Debug\Project dierenarts.csproj.AssemblyReference.cache
+D:\Desktop\School\Project-14-Dierenarts\Les 8\Les 8 Opdracht 2\Project dierenarts\Project dierenarts\obj\Debug\Project_dierenarts.Inlogscherm.resources
+D:\Desktop\School\Project-14-Dierenarts\Les 8\Les 8 Opdracht 2\Project dierenarts\Project dierenarts\obj\Debug\Project_dierenarts.Properties.Resources.resources
+D:\Desktop\School\Project-14-Dierenarts\Les 8\Les 8 Opdracht 2\Project dierenarts\Project dierenarts\obj\Debug\Project dierenarts.csproj.GenerateResource.cache
+D:\Desktop\School\Project-14-Dierenarts\Les 8\Les 8 Opdracht 2\Project dierenarts\Project dierenarts\obj\Debug\Project dierenarts.csproj.CoreCompileInputs.cache
+D:\Desktop\School\Project-14-Dierenarts\Les 8\Les 8 Opdracht 2\Project dierenarts\Project dierenarts\obj\Debug\Project dierenarts.exe
+D:\Desktop\School\Project-14-Dierenarts\Les 8\Les 8 Opdracht 2\Project dierenarts\Project dierenarts\obj\Debug\Project dierenarts.pdb
+D:\Desktop\School\Project-14-Dierenarts\Les 8\Les 8 Opdracht 2\Project dierenarts\Project dierenarts\obj\Debug\Project_dierenarts.InvoerKlantgegevens.resources
+D:\Desktop\School\Project-14-Dierenarts\Project Dierenarts\Project dierenarts\bin\Debug\Project dierenarts.exe.config
+D:\Desktop\School\Project-14-Dierenarts\Project Dierenarts\Project dierenarts\bin\Debug\Project dierenarts.exe
+D:\Desktop\School\Project-14-Dierenarts\Project Dierenarts\Project dierenarts\bin\Debug\Project dierenarts.pdb
+D:\Desktop\School\Project-14-Dierenarts\Project Dierenarts\Project dierenarts\obj\Debug\Project dierenarts.csproj.AssemblyReference.cache
+D:\Desktop\School\Project-14-Dierenarts\Project Dierenarts\Project dierenarts\obj\Debug\Project_dierenarts.Inlogscherm.resources
+D:\Desktop\School\Project-14-Dierenarts\Project Dierenarts\Project dierenarts\obj\Debug\Project_dierenarts.InvoerKlantgegevens.resources
+D:\Desktop\School\Project-14-Dierenarts\Project Dierenarts\Project dierenarts\obj\Debug\Project_dierenarts.Properties.Resources.resources
+D:\Desktop\School\Project-14-Dierenarts\Project Dierenarts\Project dierenarts\obj\Debug\Project dierenarts.csproj.GenerateResource.cache
+D:\Desktop\School\Project-14-Dierenarts\Project Dierenarts\Project dierenarts\obj\Debug\Project dierenarts.csproj.CoreCompileInputs.cache
+D:\Desktop\School\Project-14-Dierenarts\Project Dierenarts\Project dierenarts\obj\Debug\Project dierenarts.exe
+D:\Desktop\School\Project-14-Dierenarts\Project Dierenarts\Project dierenarts\obj\Debug\Project dierenarts.pdb
+D:\Desktop\School\Project-14-Dierenarts\Project Dierenarts\Project dierenarts\obj\Debug\Project_dierenarts.TonenKlantgegevens.resources
+D:\Desktop\School\Project-14-Dierenarts\Project Dierenarts\Project dierenarts\obj\Debug\Project_dierenarts.TonenBehandelingen.resources
+D:\Desktop\School\Project-14-Dierenarts\Project Dierenarts\Project dierenarts\obj\Debug\Project_dierenarts.ToevoegenBehandeling.resources
+D:\Desktop\School\Project-14-Dierenarts\Project Dierenarts\Project dierenarts\obj\Debug\Project_dierenarts.ToonAlleBehandelingen.resources

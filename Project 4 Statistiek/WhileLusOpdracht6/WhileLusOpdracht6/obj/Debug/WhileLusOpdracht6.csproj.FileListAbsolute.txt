@@ -1,0 +1,10 @@
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\WhileLusOpdracht6\WhileLusOpdracht6\obj\Debug\WhileLusOpdracht6.csproj.AssemblyReference.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\WhileLusOpdracht6\WhileLusOpdracht6\obj\Debug\WhileLusOpdracht6.Form1.resources
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\WhileLusOpdracht6\WhileLusOpdracht6\obj\Debug\WhileLusOpdracht6.Properties.Resources.resources
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\WhileLusOpdracht6\WhileLusOpdracht6\obj\Debug\WhileLusOpdracht6.csproj.GenerateResource.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\WhileLusOpdracht6\WhileLusOpdracht6\obj\Debug\WhileLusOpdracht6.csproj.CoreCompileInputs.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\WhileLusOpdracht6\WhileLusOpdracht6\bin\Debug\WhileLusOpdracht6.exe.config
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\WhileLusOpdracht6\WhileLusOpdracht6\bin\Debug\WhileLusOpdracht6.exe
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\WhileLusOpdracht6\WhileLusOpdracht6\bin\Debug\WhileLusOpdracht6.pdb
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\WhileLusOpdracht6\WhileLusOpdracht6\obj\Debug\WhileLusOpdracht6.exe
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\WhileLusOpdracht6\WhileLusOpdracht6\obj\Debug\WhileLusOpdracht6.pdb

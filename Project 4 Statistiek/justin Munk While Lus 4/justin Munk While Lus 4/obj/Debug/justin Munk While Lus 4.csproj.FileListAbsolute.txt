@@ -1,0 +1,10 @@
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\justin Munk While Lus 4\justin Munk While Lus 4\bin\Debug\justin Munk While Lus 4.exe.config
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\justin Munk While Lus 4\justin Munk While Lus 4\bin\Debug\justin Munk While Lus 4.exe
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\justin Munk While Lus 4\justin Munk While Lus 4\bin\Debug\justin Munk While Lus 4.pdb
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\justin Munk While Lus 4\justin Munk While Lus 4\obj\Debug\justin Munk While Lus 4.csproj.AssemblyReference.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\justin Munk While Lus 4\justin Munk While Lus 4\obj\Debug\justin_Munk_While_Lus_4.Form1.resources
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\justin Munk While Lus 4\justin Munk While Lus 4\obj\Debug\justin_Munk_While_Lus_4.Properties.Resources.resources
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\justin Munk While Lus 4\justin Munk While Lus 4\obj\Debug\justin Munk While Lus 4.csproj.GenerateResource.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\justin Munk While Lus 4\justin Munk While Lus 4\obj\Debug\justin Munk While Lus 4.csproj.CoreCompileInputs.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\justin Munk While Lus 4\justin Munk While Lus 4\obj\Debug\justin Munk While Lus 4.exe
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\justin Munk While Lus 4\justin Munk While Lus 4\obj\Debug\justin Munk While Lus 4.pdb

@@ -1,0 +1,15 @@
+body
+{
+    color: azure;
+    background-color: gray;
+
+}
+
+#paragraph
+{
+    font-size: 20px;
+    color: black;
+    background-color: lightblue;
+    margin: 20px;
+    padding: 20px;
+}

@@ -1,0 +1,14 @@
+.nav.justify-content-center a.nav-link{
+color:white;
+}
+
+
+body
+{
+    background-image: url("Images/WhiteBG.webp");
+    background-size: cover;
+}
+
+#footer{
+    color:white;
+}

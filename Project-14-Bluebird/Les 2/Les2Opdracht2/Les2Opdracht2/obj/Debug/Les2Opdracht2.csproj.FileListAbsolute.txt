@@ -1,0 +1,11 @@
+D:\Desktop\School\Project-14-Bluebird\Les 2\Les2Opdracht2\Les2Opdracht2\bin\Debug\Les2Opdracht2.exe.config
+D:\Desktop\School\Project-14-Bluebird\Les 2\Les2Opdracht2\Les2Opdracht2\bin\Debug\Les2Opdracht2.exe
+D:\Desktop\School\Project-14-Bluebird\Les 2\Les2Opdracht2\Les2Opdracht2\bin\Debug\Les2Opdracht2.pdb
+D:\Desktop\School\Project-14-Bluebird\Les 2\Les2Opdracht2\Les2Opdracht2\obj\Debug\Les2Opdracht2.csproj.AssemblyReference.cache
+D:\Desktop\School\Project-14-Bluebird\Les 2\Les2Opdracht2\Les2Opdracht2\obj\Debug\Les2Opdracht2.Form1.resources
+D:\Desktop\School\Project-14-Bluebird\Les 2\Les2Opdracht2\Les2Opdracht2\obj\Debug\Les2Opdracht2.Invoer.resources
+D:\Desktop\School\Project-14-Bluebird\Les 2\Les2Opdracht2\Les2Opdracht2\obj\Debug\Les2Opdracht2.Properties.Resources.resources
+D:\Desktop\School\Project-14-Bluebird\Les 2\Les2Opdracht2\Les2Opdracht2\obj\Debug\Les2Opdracht2.csproj.GenerateResource.cache
+D:\Desktop\School\Project-14-Bluebird\Les 2\Les2Opdracht2\Les2Opdracht2\obj\Debug\Les2Opdracht2.csproj.CoreCompileInputs.cache
+D:\Desktop\School\Project-14-Bluebird\Les 2\Les2Opdracht2\Les2Opdracht2\obj\Debug\Les2Opdracht2.exe
+D:\Desktop\School\Project-14-Bluebird\Les 2\Les2Opdracht2\Les2Opdracht2\obj\Debug\Les2Opdracht2.pdb
