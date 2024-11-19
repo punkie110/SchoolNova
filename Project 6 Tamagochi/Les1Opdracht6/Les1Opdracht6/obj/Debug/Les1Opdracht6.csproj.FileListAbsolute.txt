@@ -1,0 +1,10 @@
+C:\Users\munkj\Desktop\School\Overig\Les1Opdracht6\Les1Opdracht6\bin\Debug\Les1Opdracht6.exe.config
+C:\Users\munkj\Desktop\School\Overig\Les1Opdracht6\Les1Opdracht6\bin\Debug\Les1Opdracht6.exe
+C:\Users\munkj\Desktop\School\Overig\Les1Opdracht6\Les1Opdracht6\bin\Debug\Les1Opdracht6.pdb
+C:\Users\munkj\Desktop\School\Overig\Les1Opdracht6\Les1Opdracht6\obj\Debug\Les1Opdracht6.csproj.AssemblyReference.cache
+C:\Users\munkj\Desktop\School\Overig\Les1Opdracht6\Les1Opdracht6\obj\Debug\Les1Opdracht6.Form1.resources
+C:\Users\munkj\Desktop\School\Overig\Les1Opdracht6\Les1Opdracht6\obj\Debug\Les1Opdracht6.Properties.Resources.resources
+C:\Users\munkj\Desktop\School\Overig\Les1Opdracht6\Les1Opdracht6\obj\Debug\Les1Opdracht6.csproj.GenerateResource.cache
+C:\Users\munkj\Desktop\School\Overig\Les1Opdracht6\Les1Opdracht6\obj\Debug\Les1Opdracht6.csproj.CoreCompileInputs.cache
+C:\Users\munkj\Desktop\School\Overig\Les1Opdracht6\Les1Opdracht6\obj\Debug\Les1Opdracht6.exe
+C:\Users\munkj\Desktop\School\Overig\Les1Opdracht6\Les1Opdracht6\obj\Debug\Les1Opdracht6.pdb

@@ -1,0 +1,10 @@
+C:\Users\munkj\Desktop\School\Project-6-Tamagotchi\Les2Opdracht2\Les2Opdracht2\obj\Debug\Les2Opdracht2.csproj.AssemblyReference.cache
+C:\Users\munkj\Desktop\School\Project-6-Tamagotchi\Les2Opdracht2\Les2Opdracht2\obj\Debug\Les2Opdracht2.Form1.resources
+C:\Users\munkj\Desktop\School\Project-6-Tamagotchi\Les2Opdracht2\Les2Opdracht2\obj\Debug\Les2Opdracht2.Properties.Resources.resources
+C:\Users\munkj\Desktop\School\Project-6-Tamagotchi\Les2Opdracht2\Les2Opdracht2\obj\Debug\Les2Opdracht2.csproj.GenerateResource.cache
+C:\Users\munkj\Desktop\School\Project-6-Tamagotchi\Les2Opdracht2\Les2Opdracht2\obj\Debug\Les2Opdracht2.csproj.CoreCompileInputs.cache
+C:\Users\munkj\Desktop\School\Project-6-Tamagotchi\Les2Opdracht2\Les2Opdracht2\bin\Debug\Les2Opdracht2.exe.config
+C:\Users\munkj\Desktop\School\Project-6-Tamagotchi\Les2Opdracht2\Les2Opdracht2\bin\Debug\Les2Opdracht2.exe
+C:\Users\munkj\Desktop\School\Project-6-Tamagotchi\Les2Opdracht2\Les2Opdracht2\bin\Debug\Les2Opdracht2.pdb
+C:\Users\munkj\Desktop\School\Project-6-Tamagotchi\Les2Opdracht2\Les2Opdracht2\obj\Debug\Les2Opdracht2.exe
+C:\Users\munkj\Desktop\School\Project-6-Tamagotchi\Les2Opdracht2\Les2Opdracht2\obj\Debug\Les2Opdracht2.pdb

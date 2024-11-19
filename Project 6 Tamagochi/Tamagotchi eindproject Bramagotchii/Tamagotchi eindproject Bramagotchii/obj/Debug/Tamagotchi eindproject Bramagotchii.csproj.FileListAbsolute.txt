@@ -1,0 +1,10 @@
+D:\Desktop\School\Project-6-Tamagotchi\Tamagotchi eindproject Bramagotchii\Tamagotchi eindproject Bramagotchii\bin\Debug\Tamagotchi eindproject Bramagotchii.exe.config
+D:\Desktop\School\Project-6-Tamagotchi\Tamagotchi eindproject Bramagotchii\Tamagotchi eindproject Bramagotchii\bin\Debug\Tamagotchi eindproject Bramagotchii.exe
+D:\Desktop\School\Project-6-Tamagotchi\Tamagotchi eindproject Bramagotchii\Tamagotchi eindproject Bramagotchii\bin\Debug\Tamagotchi eindproject Bramagotchii.pdb
+D:\Desktop\School\Project-6-Tamagotchi\Tamagotchi eindproject Bramagotchii\Tamagotchi eindproject Bramagotchii\obj\Debug\Tamagotchi eindproject Bramagotchii.csproj.AssemblyReference.cache
+D:\Desktop\School\Project-6-Tamagotchi\Tamagotchi eindproject Bramagotchii\Tamagotchi eindproject Bramagotchii\obj\Debug\Tamagotchi_eindproject_Bramagotchii.Form1.resources
+D:\Desktop\School\Project-6-Tamagotchi\Tamagotchi eindproject Bramagotchii\Tamagotchi eindproject Bramagotchii\obj\Debug\Tamagotchi_eindproject_Bramagotchii.Properties.Resources.resources
+D:\Desktop\School\Project-6-Tamagotchi\Tamagotchi eindproject Bramagotchii\Tamagotchi eindproject Bramagotchii\obj\Debug\Tamagotchi eindproject Bramagotchii.csproj.GenerateResource.cache
+D:\Desktop\School\Project-6-Tamagotchi\Tamagotchi eindproject Bramagotchii\Tamagotchi eindproject Bramagotchii\obj\Debug\Tamagotchi eindproject Bramagotchii.csproj.CoreCompileInputs.cache
+D:\Desktop\School\Project-6-Tamagotchi\Tamagotchi eindproject Bramagotchii\Tamagotchi eindproject Bramagotchii\obj\Debug\Tamagotchi eindproject Bramagotchii.exe
+D:\Desktop\School\Project-6-Tamagotchi\Tamagotchi eindproject Bramagotchii\Tamagotchi eindproject Bramagotchii\obj\Debug\Tamagotchi eindproject Bramagotchii.pdb

@@ -1,0 +1,10 @@
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\Les1Opdracht1\Les1Opdracht1\bin\Debug\Les1Opdracht1.exe.config
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\Les1Opdracht1\Les1Opdracht1\bin\Debug\Les1Opdracht1.exe
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\Les1Opdracht1\Les1Opdracht1\bin\Debug\Les1Opdracht1.pdb
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\Les1Opdracht1\Les1Opdracht1\obj\Debug\Les1Opdracht1.csproj.AssemblyReference.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\Les1Opdracht1\Les1Opdracht1\obj\Debug\Les1Opdracht1.Form1.resources
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\Les1Opdracht1\Les1Opdracht1\obj\Debug\Les1Opdracht1.Properties.Resources.resources
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\Les1Opdracht1\Les1Opdracht1\obj\Debug\Les1Opdracht1.csproj.GenerateResource.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\Les1Opdracht1\Les1Opdracht1\obj\Debug\Les1Opdracht1.csproj.CoreCompileInputs.cache
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\Les1Opdracht1\Les1Opdracht1\obj\Debug\Les1Opdracht1.exe
+C:\Users\munkj\Desktop\School\Project 4 Statistiek\Les1Opdracht1\Les1Opdracht1\obj\Debug\Les1Opdracht1.pdb

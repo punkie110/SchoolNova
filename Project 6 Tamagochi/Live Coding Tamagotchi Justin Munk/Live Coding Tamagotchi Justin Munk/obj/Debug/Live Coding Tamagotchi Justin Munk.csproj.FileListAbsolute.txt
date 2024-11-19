@@ -1,0 +1,10 @@
+D:\Desktop\School\Project-6-Tamagotchi\Live Coding Tamagotchi Justin Munk\Live Coding Tamagotchi Justin Munk\bin\Debug\Live Coding Tamagotchi Justin Munk.exe.config
+D:\Desktop\School\Project-6-Tamagotchi\Live Coding Tamagotchi Justin Munk\Live Coding Tamagotchi Justin Munk\bin\Debug\Live Coding Tamagotchi Justin Munk.exe
+D:\Desktop\School\Project-6-Tamagotchi\Live Coding Tamagotchi Justin Munk\Live Coding Tamagotchi Justin Munk\bin\Debug\Live Coding Tamagotchi Justin Munk.pdb
+D:\Desktop\School\Project-6-Tamagotchi\Live Coding Tamagotchi Justin Munk\Live Coding Tamagotchi Justin Munk\obj\Debug\Live Coding Tamagotchi Justin Munk.csproj.AssemblyReference.cache
+D:\Desktop\School\Project-6-Tamagotchi\Live Coding Tamagotchi Justin Munk\Live Coding Tamagotchi Justin Munk\obj\Debug\Live_Coding_Tamagotchi_Justin_Munk.Form1.resources
+D:\Desktop\School\Project-6-Tamagotchi\Live Coding Tamagotchi Justin Munk\Live Coding Tamagotchi Justin Munk\obj\Debug\Live_Coding_Tamagotchi_Justin_Munk.Properties.Resources.resources
+D:\Desktop\School\Project-6-Tamagotchi\Live Coding Tamagotchi Justin Munk\Live Coding Tamagotchi Justin Munk\obj\Debug\Live Coding Tamagotchi Justin Munk.csproj.GenerateResource.cache
+D:\Desktop\School\Project-6-Tamagotchi\Live Coding Tamagotchi Justin Munk\Live Coding Tamagotchi Justin Munk\obj\Debug\Live Coding Tamagotchi Justin Munk.csproj.CoreCompileInputs.cache
+D:\Desktop\School\Project-6-Tamagotchi\Live Coding Tamagotchi Justin Munk\Live Coding Tamagotchi Justin Munk\obj\Debug\Live Coding Tamagotchi Justin Munk.exe
+D:\Desktop\School\Project-6-Tamagotchi\Live Coding Tamagotchi Justin Munk\Live Coding Tamagotchi Justin Munk\obj\Debug\Live Coding Tamagotchi Justin Munk.pdb

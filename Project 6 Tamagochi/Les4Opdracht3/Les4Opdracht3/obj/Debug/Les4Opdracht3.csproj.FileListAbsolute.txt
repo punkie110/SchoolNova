@@ -1,0 +1,10 @@
+D:\Desktop\School\Project-6-Tamagotchi\Les4Opdracht3\Les4Opdracht3\obj\Debug\Les4Opdracht3.csproj.AssemblyReference.cache
+D:\Desktop\School\Project-6-Tamagotchi\Les4Opdracht3\Les4Opdracht3\obj\Debug\Les4Opdracht3.Form1.resources
+D:\Desktop\School\Project-6-Tamagotchi\Les4Opdracht3\Les4Opdracht3\obj\Debug\Les4Opdracht3.Properties.Resources.resources
+D:\Desktop\School\Project-6-Tamagotchi\Les4Opdracht3\Les4Opdracht3\obj\Debug\Les4Opdracht3.csproj.GenerateResource.cache
+D:\Desktop\School\Project-6-Tamagotchi\Les4Opdracht3\Les4Opdracht3\obj\Debug\Les4Opdracht3.csproj.CoreCompileInputs.cache
+D:\Desktop\School\Project-6-Tamagotchi\Les4Opdracht3\Les4Opdracht3\bin\Debug\Les4Opdracht3.exe.config
+D:\Desktop\School\Project-6-Tamagotchi\Les4Opdracht3\Les4Opdracht3\bin\Debug\Les4Opdracht3.exe
+D:\Desktop\School\Project-6-Tamagotchi\Les4Opdracht3\Les4Opdracht3\bin\Debug\Les4Opdracht3.pdb
+D:\Desktop\School\Project-6-Tamagotchi\Les4Opdracht3\Les4Opdracht3\obj\Debug\Les4Opdracht3.exe
+D:\Desktop\School\Project-6-Tamagotchi\Les4Opdracht3\Les4Opdracht3\obj\Debug\Les4Opdracht3.pdb
